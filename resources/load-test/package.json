@@ -4,7 +4,7 @@
   "description": "A load test participant",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jitsi/jitsi-meet"
+    "url": "git://github.com/bgoonz/jitsi-meet"
   },
   "keywords": [
     "jingle",

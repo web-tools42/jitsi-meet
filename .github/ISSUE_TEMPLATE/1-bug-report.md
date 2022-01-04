@@ -8,7 +8,7 @@ about: Create a report to help us improve
 
 This issue tracker is only for reporting bugs and tracking issues related to the source code.
 
-Before posting, please make sure to check if the same or similar bugs have already been discussed: https://github.com/jitsi/jitsi-meet/issues
+Before posting, please make sure to check if the same or similar bugs have already been discussed: https://github.com/bgoonz/jitsi-meet/issues
 
 General questions regarding usage, installation, etc. should be posted at https://community.jitsi.org. They will be closed if posted here.
 

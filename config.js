@@ -29,7 +29,7 @@ var config = {
 
     // The real JID of focus participant - can be overridden here
     // Do not change username - FIXME: Make focus username configurable
-    // https://github.com/jitsi/jitsi-meet/issues/7376
+    // https://github.com/bgoonz/jitsi-meet/issues/7376
     // focusUserJid: 'focus@auth.jitsi-meet.example.com',
 
 
@@ -975,9 +975,9 @@ var config = {
         virtualBackgrounds: ['https://example.com/img.jpg'],
         // Object containing a theme's properties. It also supports partial overwrites of the main theme.
         // For a list of all possible theme tokens and their current defaults, please check:
-        // https://github.com/jitsi/jitsi-meet/tree/master/resources/custom-theme/custom-theme.json
+        // https://github.com/bgoonz/jitsi-meet/tree/master/resources/custom-theme/custom-theme.json
         // For a short explanations on each of the tokens, please check:
-        // https://github.com/jitsi/jitsi-meet/blob/master/react/features/base/ui/Tokens.js
+        // https://github.com/bgoonz/jitsi-meet/blob/master/react/features/base/ui/Tokens.js
         // IMPORTANT!: This is work in progress so many of the various tokens are not yet applied in code
         // or they are partially applied.
         customTheme: {

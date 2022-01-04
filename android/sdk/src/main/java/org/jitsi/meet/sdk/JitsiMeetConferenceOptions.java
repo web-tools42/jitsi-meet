@@ -46,12 +46,12 @@ public class JitsiMeetConferenceOptions implements Parcelable {
     private String token;
 
     /**
-     * Config. See: https://github.com/jitsi/jitsi-meet/blob/master/config.js
+     * Config. See: https://github.com/bgoonz/jitsi-meet/blob/master/config.js
      */
     private Bundle config;
 
     /**
-     * Feature flags. See: https://github.com/jitsi/jitsi-meet/blob/master/react/features/base/flags/constants.js
+     * Feature flags. See: https://github.com/bgoonz/jitsi-meet/blob/master/react/features/base/flags/constants.js
      */
     private Bundle featureFlags;
 

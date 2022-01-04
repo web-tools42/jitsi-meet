@@ -44,7 +44,7 @@ npm install github:jitsi/lib-jitsi-meet#${LATEST_LJM_COMMIT}
 git add package.json package-lock.json
 git commit -m "chore(deps) lib-jitsi-meet@latest" -m "${LJM_COMMITS}" -m "${GH_LINK}"
 git push origin ${NEW_BRANCH}
-gh pr create --repo jitsi/jitsi-meet --fill
+gh pr create --repo bgoonz/jitsi-meet --fill
 popd
 
 rm -rf ${LJM_TMP}

@@ -35,7 +35,7 @@
 @property (nonatomic, copy, nullable) NSString *token;
 
 /**
- * Feature flags. See: https://github.com/jitsi/jitsi-meet/blob/master/react/features/base/flags/constants.js
+ * Feature flags. See: https://github.com/bgoonz/jitsi-meet/blob/master/react/features/base/flags/constants.js
  */
 @property (nonatomic, readonly, nonnull) NSDictionary *featureFlags;
 
